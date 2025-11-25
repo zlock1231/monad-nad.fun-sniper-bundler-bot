@@ -1,0 +1,26 @@
+{
+  "name": "nad.fun-trade-v2",
+  "version": "2.1.1",
+  "description": "A modular trading bot for the Nad.fun platform, supporting various automated and manual trading strategies.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "trading-bot",
+    "nad.fun",
+    "blockchain",
+    "crypto",
+    "ethereum",
+    "smart-contract",
+    "trading"
+  ],
+  "author": "mink007",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.13.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
