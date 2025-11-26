@@ -63,7 +63,9 @@
 ### Installation
 
 1.  **Clone the Repository**
-    
+    ```bash
+    git clone https://github.com/Angel7Dev/monad-nad.fun-sniper-bundler-bot.git
+    ```
 
 2.  **Install Dependencies**
     ```bash
